@@ -1,5 +1,5 @@
-id: "linux-into"
-name: Operating Systems
+id: "linux-intro"
+name: Operating Systems Playground
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
