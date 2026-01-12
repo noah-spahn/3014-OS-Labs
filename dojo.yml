@@ -1,5 +1,5 @@
-id: "linux-intro"
-name: CSC/EGR 3003 Linux Labs
+id: "3014-labs"
+name: CSC/EGR 3014 OS Labs
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
