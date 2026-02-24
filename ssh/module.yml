@@ -1,0 +1,6 @@
+name: ssh
+allow_privileged: true
+resources:
+- id: "shh"
+  name: "ssh"
+  type: challenge
