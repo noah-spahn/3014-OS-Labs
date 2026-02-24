@@ -5,6 +5,7 @@ type: welcome
 award:
   emoji: 🐧
 modules:
+- id: "ssh"
 - id: "hello"
 - id: "paths"
 - id: "commands"
